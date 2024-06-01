@@ -1,0 +1,24 @@
+body {
+    border: 2px solid black;
+}
+
+h1 {
+    text-align: center;
+}
+
+#cryptoDropdown {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    width: 150px;
+}
+
+#cryptoInfoSection {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    width: 300px;
+}
+
